@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="CPSC 223J P4 P2/src/|CPSC 223J P4 P4/src/|Example/src/|CPSC 223J P3 P2/src/|CPSC 223J P3 P4/src/|CPSC 223J P2 P2/src/|CPSC 223J P2 P4/src/|CPSC 223J P1 P4/src/|CPSC 223J P1 P6/src/|Dummy/src/|Java Quiz 1/src/|JavaApplication13/src/|JavaApplication1/src/|CPSC 223J P4 P1/src/|CPSC 223J P4 P3/src/|CPSC 223J P3 P1/src/|CPSC 223J P3 P3/src/|CPSC 223J P3 P5/src/|CPSC 223J P2 P1/src/|CPSC 223J P2 P3/src/|CPSC 223J P1 P3/src/|CPSC 223J P1 P5/src/|Project 1 P2 CPSC 223J/src/" kind="src" path=""/>
+	<classpathentry kind="src" path="CPSC 223J P1 P3/src"/>
+	<classpathentry kind="src" path="CPSC 223J P1 P4/src"/>
+	<classpathentry kind="src" path="CPSC 223J P1 P5/src"/>
+	<classpathentry kind="src" path="CPSC 223J P1 P6/src"/>
+	<classpathentry kind="src" path="CPSC 223J P2 P1/src"/>
+	<classpathentry kind="src" path="CPSC 223J P2 P2/src"/>
+	<classpathentry kind="src" path="CPSC 223J P2 P3/src"/>
+	<classpathentry kind="src" path="CPSC 223J P2 P4/src"/>
+	<classpathentry kind="src" path="CPSC 223J P3 P1/src"/>
+	<classpathentry kind="src" path="CPSC 223J P3 P2/src"/>
+	<classpathentry kind="src" path="CPSC 223J P3 P3/src"/>
+	<classpathentry kind="src" path="CPSC 223J P3 P4/src"/>
+	<classpathentry kind="src" path="CPSC 223J P3 P5/src"/>
+	<classpathentry kind="src" path="CPSC 223J P4 P1/src"/>
+	<classpathentry kind="src" path="CPSC 223J P4 P2/src"/>
+	<classpathentry kind="src" path="CPSC 223J P4 P3/src"/>
+	<classpathentry kind="src" path="CPSC 223J P4 P4/src"/>
+	<classpathentry kind="src" path="Dummy/src"/>
+	<classpathentry kind="src" path="Example/src"/>
+	<classpathentry kind="src" path="Java Quiz 1/src"/>
+	<classpathentry kind="src" path="JavaApplication1/src"/>
+	<classpathentry kind="src" path="JavaApplication13/src"/>
+	<classpathentry kind="src" path="Project 1 P2 CPSC 223J/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="CPSC 223J P1 P3/build/classes"/>
+</classpath>

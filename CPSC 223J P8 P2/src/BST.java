@@ -91,6 +91,10 @@ public class BST {
 			System.out.println("Currently empty");
 			return root;
 		}
+		
+		if(root.info.getID() == val){
+			return root;
+		}
 		else {
 			node current = root;
 			while (true) {
@@ -166,7 +170,7 @@ public class BST {
 		
 		do{
 		list.displayTreeInorder(list.root);
-		System.out.println("----------MENU----------");
+		System.out.println("\n----------MENU----------");
 		System.out.println("a. Enter ID number to deposit");
 		System.out.println("b. Enter ID to withdraw");
 		System.out.println("c. Enter ID to see balance");
